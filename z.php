@@ -5,8 +5,17 @@
 	<title>Pwnd by Mr.TenAr</title>
 	<link rel="icon" type="image/png" href="https://c.top4top.io/p_20661mc0d0.png">
 	<meta property="og:image" content="https://c.top4top.io/p_20661mc0d0.pngg" />
-	<meta name="description" content="<3">
 	<meta charset="utf-8">
+	<meta name="description" content="Pwn3dz by Mr.TenAr x NantzzSec">
+  <meta name="keywords" content="Mr.TenAr, NantzzSec">
+  <meta name="author" content="Mr.TenAr x NantzzSec">
+  <meta name="robots" content="index, follow">
+
+  <!-- Open Graph Tags -->
+  <meta property="og:title" content="Pwnd by Mr.TenAr">
+  <meta property="og:description" content="Pwn3dz by Mr.TenAr">
+  <meta property="og:image" content="https://c.top4top.io/p_20661mc0d0.png">
+  <meta property="og:type" content="website">
 	<style>
 		html,
 		body {
