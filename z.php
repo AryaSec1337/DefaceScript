@@ -1,8 +1,8 @@
 <html>
 <head>
-	<title>Pwnd by Mr.TenAr</title>
-	<link rel="icon" type="image/png" href="https://c.top4top.io/p_20661mc0d0.png">
-	<meta property="og:image" content="https://c.top4top.io/p_20661mc0d0.pngg" />
+  <title>Pwnd by Mr.TenAr</title>
+  <link rel="icon" type="image/png" href="https://c.top4top.io/p_20661mc0d0.png">
+  <meta property="og:image" content="https://c.top4top.io/p_20661mc0d0.pngg" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Hacked By Mr.TenAr x NantzzSec">
   <meta name="keywords" content="Hacked By Mr.TenAr x NantzzSec">
